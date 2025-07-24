@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex justify-content-start flex-wrap gap-3 align-items-center animate__animated animate__fadeIn">
     <div class="col-12 col-md-auto text-center text-md-start">
-      <img src="./assets/images/profile-new.JPG" alt="Image" class="img-fluid rounded" width="130" height="130"/>
+      <img src="./assets/images/profile-new.jpg" alt="Image" class="img-fluid rounded" width="130" height="130"/>
     </div>
     
     <div class="col text-center text-md-start">
